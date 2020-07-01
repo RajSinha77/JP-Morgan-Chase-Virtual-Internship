@@ -3,7 +3,7 @@
 This repository contains the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship.
 
 <h2> Virtual Internship Tasks </h2>
-1. 2. <a href = "https://in.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME"> Interface with a stock price data feed </a> 
+1. <a href = "https://in.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME"> Interface with a stock price data feed </a> 
 <br>
 2. <a href = "https://in.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk"> Use JP Morgan chase Frameworks & tools </a>
 <br>
